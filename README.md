@@ -1,3 +1,3 @@
-# double-eleven
+# react-carousel 
 
-Describe double-eleven here.
+Describe react-carousel here.
