@@ -1,0 +1,6 @@
+build/*.js
+config/*.js
+**/*.test.js
+**/*.spec.js
+__test__
+__tests__
